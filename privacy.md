@@ -4,9 +4,9 @@ title: "Softly Said Publisher: Privacy Policy"
 
 # Softly Said Publisher: Privacy Policy
 
-Effective date: November 7, 2026
+Effective date: November 9, 2026
 
-Softly Said Publisher ("the app") is an internal tool used only by the operator of the Softly Said Facebook Page and the Softly Said YouTube channel. It is not offered to the public, and people cannot sign in to it or connect their own accounts.
+Softly Said Publisher ("the app") is an internal tool used only by the operator of the Softly Said Facebook Page, the Softly Said YouTube channel, and the Softly Said Pinterest account. On Pinterest the app is registered as softly-said-pipeline. It is not offered to the public, and people cannot sign in to it or connect their own accounts.
 
 ## What the app does
 
@@ -29,6 +29,18 @@ The app signs in only to the operator's own Google account, and uses the YouTube
 The app does not read or store information about other YouTube users or other channels, and does not use cookies. The access token and refresh token are stored only on the operator's computer.
 
 The account owner can revoke the app's access at any time on the [Google Account permissions page](https://myaccount.google.com/permissions). After access is revoked, the app deletes its stored YouTube data within 30 days.
+
+## Pinterest
+
+The app signs in only to the operator's own Pinterest business account (softlysaidquotes), and uses the Pinterest API to:
+
+- publish one video Pin per day to the account's own boards
+- read the account's own boards and Pins
+- read analytics for the account's own Pins, such as impressions, saves, Pin clicks, outbound clicks, video views, and average watch time
+
+The app does not read or store information about other Pinterest users, does not follow, message, or save on anyone else's behalf, and does not use cookies. The access token and refresh token are stored only on the operator's computer. Pinterest's handling of data is described in the [Pinterest Privacy Policy](https://policy.pinterest.com/en/privacy-policy).
+
+The account owner can revoke the app's access at any time in Pinterest settings, in the list of apps connected to the account. After access is revoked, the app deletes its stored Pinterest data within 30 days.
 
 ## Information the app accesses
 
